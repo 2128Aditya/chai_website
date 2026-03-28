@@ -1,1 +1,1 @@
-![Project Screenshot](public/image.png)
+![Project Screenshot](vite-project/public/image.png)
